@@ -5,8 +5,6 @@ const WhterApp = ({weather}) => {
   
 
   return (
-
-
     <div className="bg-fw h-full bg-cover bg-no-repeat w-1/2 rounded-lg   ">
     <div>
              <p className=" text-end text-2xl font-bold ">
@@ -18,7 +16,6 @@ const WhterApp = ({weather}) => {
            
     </div>
 
-     
      <br/>
      <br/>
      <br/>
